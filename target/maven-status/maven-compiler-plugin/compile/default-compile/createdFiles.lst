@@ -1,0 +1,4 @@
+com\iot\task\Task.class
+com\iot\task\Application.class
+com\iot\task\TaskRepository.class
+com\iot\task\HomeController.class
